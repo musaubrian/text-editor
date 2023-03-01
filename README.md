@@ -2,7 +2,8 @@
 
 <hr />
 <p align=center> A simple text editor built using python </p>
-<p align=center> Current functionality are changing the text font and saving the document </p>
+<p align=center> Current functionality are save button and quit </p>
+NOt planngin on adding any more functionality
 
 <hr />
 
@@ -11,5 +12,5 @@
   
   
   
-  ![Simple text editor 💻 2_22_2022 5_09_32 PM](https://user-images.githubusercontent.com/94367979/155149308-9c18718c-ed36-4f87-ad4f-cf342e9dc532.png)
+  ![image](https://user-images.githubusercontent.com/94367979/222090387-9fb4b461-7889-4239-b637-c821b7775a24.png)
 </div>  
